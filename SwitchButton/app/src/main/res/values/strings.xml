@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwitchButton</string>
+    <string-array name="switch_tabs">
+        <item>Aceptar</item>
+        <item>Cancelar</item>
+    </string-array>
+</resources>
